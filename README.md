@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/i_am_gops_" target="blank"><img src="https://img.shields.io/twitter/follow/i_am_gops_?logo=twitter&style=for-the-badge" alt="i_am_gops_" /></a> </p>
 <img align='right' src='https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif' alt='gifimagecoder'  width=400 >
-- 💬 Ask me about **Machine Learning , AI , AWS**
+- 💬 Ask me about **Generative AI , MLOPS , LLM and I would happy to respond**
 
 - 📫 How to reach me **gopalpadhi8@hotmail.com**
 
