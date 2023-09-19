@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **gopalpadhi8@hotmail.com**
 
-- ⚡ Fun fact **I love to Game**
+- ⚡ Fun fact **I love to play Counter-Strike**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
